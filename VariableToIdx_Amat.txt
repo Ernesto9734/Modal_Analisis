@@ -1,0 +1,10 @@
+
+ Matrix column index; Model name; State variable
+     1    Grid_TwoArea\G1.ElmSym    "speed" 
+     2    Grid_TwoArea\G1.ElmSym    "phi" 
+     3    Grid_TwoArea\G2.ElmSym    "speed" 
+     4    Grid_TwoArea\G2.ElmSym    "phi" 
+     5    Grid_TwoArea\G3.ElmSym    "speed" 
+     6    Grid_TwoArea\G3.ElmSym    "phi" 
+     7    Grid_TwoArea\G4.ElmSym    "speed" 
+     8    Grid_TwoArea\G4.ElmSym    "phi" 
